@@ -64281,7 +64281,7 @@ $1(a){var s=null
 return A.j_(A.na(a,B.cq,s,s),s,s)},
 $S:401}
 A.Rr.prototype={
-$0(){var s=this.a,r=A.ab4(new A.Ro(),new A.eT("/PrivacyPolicy",null),t.z)
+$0(){var s=this.a,r=A.ab4(new A.Ro(),new A.eT("/CurlyServiceWeb/PrivacyPolicy",null),t.z)
 A.jn(s).us(r).b9(new A.Rp(s),t.P)},
 $S:0}
 A.Ro.prototype={
